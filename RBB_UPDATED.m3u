@@ -477,8 +477,8 @@ https://ott.udptv.net/stream/iptv/onetvasia/master.m3u8?u=udpteam@djdoolky76&p=4
 https://ott-it.djdoolky76.net/stream/sky/skyuno/master.m3u8?u=udpteam@djdoolky76&p=47beb9b696976df8054d42d9f552d489d1f856298f1aa9aca6143fcb4b5deb1a
 #EXTINF:-1 tvg-id="Sky.Atlantic.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-atlantic-it.png?raw=true" tvg-name="Sky Atlantic" group-title="ENTERTAINMENT",Sky Atlantic
 https://ott-it.djdoolky76.net/stream/sky/skyatlantic/master.m3u8?u=udpteam@djdoolky76&p=47beb9b696976df8054d42d9f552d489d1f856298f1aa9aca6143fcb4b5deb1a
-#EXTINF:-1 tvg-id="Syfy.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-hz-us.png?raw=true" tvg-name="Syfy West" group-title="ENTERTAINMENT",Syfy West
-https://ott-us.djdoolky76.net/stream/nbc/syfywest/master.m3u8?u=udpteam@djdoolky76&p=47beb9b696976df8054d42d9f552d489d1f856298f1aa9aca6143fcb4b5deb1a
+#EXTINF:-1 group-title="Entertainment" tvg-id="Syfy.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" tvg-name="SYFY",SYFY
+http://fl1.moveonjoy.com/SYFY/index.m3u8
 #EXTINF:-1 tvg-id="TLC.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/tlc-au.png" tvg-name="TLC" group-title="ENTERTAINMENT",TLC
 https://ott.djdoolky76.net/stream/astro/tlc/master.m3u8?u=udpteam@djdoolky76&p=47beb9b696976df8054d42d9f552d489d1f856298f1aa9aca6143fcb4b5deb1a
 #EXTINF:-1 tvg-id="Travel.US.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" tvg-name="Travel Channel" group-title="ENTERTAINMENT",Travel Channel
